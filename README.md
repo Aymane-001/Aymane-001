@@ -2,7 +2,7 @@
 
 <img src="./banner.png" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=E63946&background=00000000&center=true&vCenter=true&width=600&lines=root%40swrdfish2%3A~%24+whoami;red+teamer+in+training...;whatever+happens%2C+...happens." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=E63946&background=00000000&center=true&vCenter=true&width=600&lines=root%40swrdfish2%3A~%24+whoami;in+training...;whatever+happens%2C+...happens." alt="Typing SVG" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ### `> about`
 
-CS Morocco. Cybersecurity track.
+CS. 
 Building tools, breaking things, learning everything.
 AI on the side.
 
@@ -28,16 +28,14 @@ AI on the side.
 ### `> stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,go,postgres,python,linux,docker,git,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,go,python,linux,docker,git,bash&theme=dark" />
 </p>
 
 ### `> stats`
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=3162venus&theme=dracula&hide_border=true&background=0D0D0D&ring=E63946&fire=E63946&currStreakLabel=E63946" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=3162venus&theme=dracula&hide_border=true&background=0D0D0D&ring=E63946&fire=E63946&currStreakLabel=E63946" width="80%" />
 </p>
-
-### `> contribution graph`
 
 <div align="center">
 <picture>
