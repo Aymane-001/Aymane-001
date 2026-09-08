@@ -1,51 +1,47 @@
-<div align="center">
 
-<img src="./banner.png" width="100%" />
+# Hi, I'm Venus
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=E63946&background=00000000&center=true&vCenter=true&width=600&lines=root%40swrdfish2%3A~%24+whoami;in+training...;whatever+happens%2C+...happens." alt="Typing SVG" />
+CS student @ ---18
 
-</div>
+I build software, break things, and occasionally make them useful.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=3162venus&color=E63946&style=flat-square&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/3162venus?label=FOLLOWERS&style=flat-square&color=E63946&labelColor=0D0D0D" />
-  <img src="https://img.shields.io/github/stars/3162venus?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=STARS&color=E63946&labelColor=0D0D0D" />
-</p>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
+### What I do
 
-### `> about`
+🧑‍💻 Software Engineering
+🔐 Security
+🤖 AI / ML
+🐧 Linux / Self-hosting / Jarvi
 
-CS. 
-Building tools, breaking things, learning everything.
-AI on the side.
-
-### `> currently`
+## currently
 
 - Building everything and anything
 - Prepping something big ... just wait
 
-### `> stack`
+## Stack I actually use
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+
+### stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,go,python,linux,docker,git,bash&theme=dark" />
+  <img
+    src="https://streak-stats.demolab.com/?user=3162venus&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=888888&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666"
+    width="65%"
+  />
 </p>
-
-### `> stats`
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=3162venus&theme=dracula&hide_border=true&background=0D0D0D&ring=E63946&fire=E63946&currStreakLabel=E63946" width="80%" />
-</p>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake graph" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-</div>
 
 <details>
-<summary>&gt; sudo access denied HAHAHA</summary>
+<summary>&gt; sudo access denied</summary>
 <br>
 <div align="center">
 <img src="./ICON.jpg" width="440" />
