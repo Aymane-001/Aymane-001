@@ -36,7 +36,7 @@ I build software, break things, and occasionally make them useful.
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=3162venus&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=888888&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666"
-    width="65%"
+    width="80%"
   />
 </p>
 
